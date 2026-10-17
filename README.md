@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Tarun-Madugula/Tarun-Madugula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tarun Madugula 👋
 
-Here are some ideas to get you started:
+### Building from first principles, learning beyond the surface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a recent graduate exploring Data Engineering, with a passion for building things from scratch and understanding the concepts behind them. Outside tech, I enjoy cricket.
+
+### 🛠️ Technologies & Tools
+
+- **Programming:** Python
+- **Data Processing:** SQL, PySpark
+- **Cloud:** Microsoft Azure, AWS
+- **Databases:** Database technologies
+- **Tools:** Git, GitHub
+
+### 🎯 My Goal
+
+To build useful things from scratch.
+
+### 🤝 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/tarun-madugula-b782a5291/)
